@@ -1,6 +1,12 @@
 {
  "name": "Santa Madara Neilande",
- "projects": [ 	 
+ "projects": [ 
+  {
+   "title": "github",
+   "section": "programming",
+   "type": "image",
+   "href": "https://github.com/PetalsOfIron?tab=repositories"
+  },
   {
    "title": "provisioning-scripts",
    "section": "programming",
